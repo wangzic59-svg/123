@@ -1,5 +1,6 @@
 # 金铲铲卡池估算器 V0.3
 
+- [下载 V0.3 ZIP 压缩包](https://github.com/wangzic59-svg/123/raw/refs/heads/main/downloads/JCC_CardPool_0.3.zip)（解压后安装 APK）
 - [下载 V0.3 APK](https://github.com/wangzic59-svg/123/raw/refs/heads/main/downloads/JCC_CardPool_0.3.apk)
 - [SHA-256](downloads/JCC_CardPool_0.3.sha256)
 
